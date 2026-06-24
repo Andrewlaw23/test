@@ -11,4 +11,4 @@ tag = "v1"
 new_classes = ["RosterRoom"]
 
 [assets]
-directory = "./public"
+directory = "."
