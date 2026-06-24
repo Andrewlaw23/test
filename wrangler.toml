@@ -8,7 +8,8 @@ class_name = "RosterRoom"
 
 [[migrations]]
 tag = "v1"
-new_classes = ["RosterRoom"]
+new_sqlite_classes = ["RosterRoom"]
 
 [assets]
 directory = "."
+
